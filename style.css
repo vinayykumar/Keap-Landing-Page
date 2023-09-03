@@ -150,7 +150,7 @@ a:hover {
 
     .left{
         width: 90%;
-        height: 45%;
+        height: 50%;
         padding: 4vw 3vw;
         /* background-color: red; */
     }
@@ -165,19 +165,19 @@ a:hover {
     }
 
     .left button {
-        padding: 4vw 6vw;
+        padding: 4vw 4vw;
         font-size: 4vw;
-        margin-top: 3vw;
+        margin-top: 1vw;
         margin-left: 2vw;
     }
     .left p{
         font-size: 4vw;
-        margin: 4vw 0vw;
+        margin: 3vw 0vw;
         width: 100%;
         margin-left: 2vw;
     }
     .right{
-        height: 55%;
+        height: 50%;
         width: 100%;
         margin-top: 2vw;
     }
